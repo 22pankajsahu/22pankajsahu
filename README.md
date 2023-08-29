@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PANKAJ SAHU</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **JavaScript Dom Manipulation**
+/*- 🔭 I’m currently working on **JavaScript Dom Manipulation**  */
 
 - 🌱 I’m currently learning **Reactjs**
 
